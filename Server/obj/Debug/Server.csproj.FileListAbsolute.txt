@@ -1,0 +1,11 @@
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\Server.exe.config
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\Server.exe
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\Server.pdb
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\ZipcodeLib.dll
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\ZipcodeLib.pdb
+E:\workspace\NP\NP_Homework01_Zipcode\Server\bin\Debug\Newtonsoft.Json.xml
+E:\workspace\NP\NP_Homework01_Zipcode\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\workspace\NP\NP_Homework01_Zipcode\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\workspace\NP\NP_Homework01_Zipcode\Server\obj\Debug\Server.exe
+E:\workspace\NP\NP_Homework01_Zipcode\Server\obj\Debug\Server.pdb

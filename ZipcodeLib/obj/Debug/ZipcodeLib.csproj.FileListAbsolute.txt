@@ -1,0 +1,5 @@
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeLib\bin\Debug\ZipcodeLib.dll
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeLib\bin\Debug\ZipcodeLib.pdb
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeLib\obj\Debug\ZipcodeLib.csproj.CoreCompileInputs.cache
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeLib\obj\Debug\ZipcodeLib.dll
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeLib\obj\Debug\ZipcodeLib.pdb
