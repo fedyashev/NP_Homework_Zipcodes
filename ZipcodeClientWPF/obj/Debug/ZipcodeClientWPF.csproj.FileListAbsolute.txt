@@ -13,3 +13,7 @@ E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\obj\Debug\ZipcodeClientWP
 E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\obj\Debug\ZipcodeClientWPF.csproj.CoreCompileInputs.cache
 E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\obj\Debug\ZipcodeClientWPF.exe
 E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\obj\Debug\ZipcodeClientWPF.pdb
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\bin\Debug\ZipcodeLib.dll
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\bin\Debug\ZipcodeLib.pdb
+E:\workspace\NP\NP_Homework01_Zipcode\ZipcodeClientWPF\bin\Debug\Newtonsoft.Json.xml

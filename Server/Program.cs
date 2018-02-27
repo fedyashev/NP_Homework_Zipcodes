@@ -73,7 +73,7 @@ namespace Server
                                         if (zipcode != null)
                                         {
                                             var zipcodePacket = new ZipcodePacketInfo() { Zipcode = zipcode };
-                                            response = JsonConvert.SerializeObject(zipcode);
+                                            response = JsonConvert.SerializeObject(zipcodePacket);
                                         }
                                         else
                                         {

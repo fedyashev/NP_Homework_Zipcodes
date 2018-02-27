@@ -17,10 +17,9 @@
             <ColumnDefinition Width="auto"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <TextBox Grid.Row="0"
-                 Grid.Column="0">
-        </TextBox>
-
-        <Button x:Name="btnSearch" Grid.Row="0" Grid.Column="1" Content="Search"></Button>
+        <TextBox x:Name="tbZipcode" Grid.Row="0" Grid.Column="0"></TextBox>
+        <Button x:Name="btnSearch" Grid.Row="0" Grid.Column="1" Content="Search" Height="20" Click="btnSearch_Click"></Button>
+        <ListBox x:Name="lstAddressdata" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"></ListBox>
+        
     </Grid>
 </Window>
